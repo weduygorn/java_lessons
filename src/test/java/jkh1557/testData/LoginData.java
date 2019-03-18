@@ -1,4 +1,4 @@
-package firstTest;
+package jkh1557.testData;
 
 public class LoginData {
     private final String phoneNum;
